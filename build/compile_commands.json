@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/CppProjecs/Clox/build",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe   -g -o CMakeFiles\\Clox.dir\\main.c.obj -c E:\\CppProjecs\\Clox\\main.c",
+  "file": "E:/CppProjecs/Clox/main.c",
+  "output": "CMakeFiles/Clox.dir/main.c.obj"
+},
+{
+  "directory": "E:/CppProjecs/Clox/build",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe   -g -o CMakeFiles\\Clox.dir\\memory.c.obj -c E:\\CppProjecs\\Clox\\memory.c",
+  "file": "E:/CppProjecs/Clox/memory.c",
+  "output": "CMakeFiles/Clox.dir/memory.c.obj"
+},
+{
+  "directory": "E:/CppProjecs/Clox/build",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe   -g -o CMakeFiles\\Clox.dir\\chunk.c.obj -c E:\\CppProjecs\\Clox\\chunk.c",
+  "file": "E:/CppProjecs/Clox/chunk.c",
+  "output": "CMakeFiles/Clox.dir/chunk.c.obj"
+},
+{
+  "directory": "E:/CppProjecs/Clox/build",
+  "command": "D:\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe   -g -o CMakeFiles\\Clox.dir\\debug.c.obj -c E:\\CppProjecs\\Clox\\debug.c",
+  "file": "E:/CppProjecs/Clox/debug.c",
+  "output": "CMakeFiles/Clox.dir/debug.c.obj"
+}
+]
