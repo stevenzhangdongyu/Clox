@@ -8,4 +8,6 @@ add_executable(Clox main.c include/memory.h include/chunk.h memory.c chunk.c
         debug.c include/debug.h include/common.h
         include/value.h
         "value.c .c"
+        include/vm.h
+        vm.c
 )
